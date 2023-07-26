@@ -3,7 +3,7 @@
 
 This GitHub repository contains online appendix with set of results for additional experiments and supplementary materials for our research on "Understanding the Contribution of Recommendation Algorithms on Misinformation Recommendation and Misinformation Dissemination on Social Networks." 
 
-The work is published on ACM Transactions on the Web (TWEB) Journal.
+The work is submitted on ACM Transactions on the Web (TWEB) Journal.
 
 <p align="center"><img src="experiment.png" width="700"/></p>
 
