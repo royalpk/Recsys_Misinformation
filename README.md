@@ -5,7 +5,6 @@ This GitHub repository contains online appendix with set of results for addition
 
 The work is submitted on ACM Transactions on the Web (TWEB) Journal.
 
-<p align="center"><img src="experiment.png" width="700"/></p>
 
 ## Ethics Statement
 
