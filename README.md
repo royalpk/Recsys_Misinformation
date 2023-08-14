@@ -1,6 +1,6 @@
 ## Misinformation, Dissemination, & Recommendation Algorithms
 
-Welcome to the GitHub repository for our research on "Understanding the Contribution of Recommendation Algorithms to Misinformation Recommendation and Misinformation Dissemination on Social Networks." This repository contains supplementary materials, additional experiment results, and information that complements our work.
+Welcome to the GitHub repository for our research on "Understanding the Contribution of Recommendation Algorithms on Misinformation Recommendation and Misinformation Dissemination on Social Networks." This repository contains supplementary materials, additional experiment results, and information that complements our work.
 
 <p align="center">
   <img src="experiment.png" alt="Experimental Setup" width="750"/>
