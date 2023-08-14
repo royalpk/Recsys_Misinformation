@@ -1,9 +1,18 @@
-# Misinformation, Dissemination, & Recommendation Algorithms
+## Misinformation, Dissemination, & Recommendation Algorithms
 
+Welcome to the GitHub repository for our research on "Understanding the Contribution of Recommendation Algorithms to Misinformation Recommendation and Misinformation Dissemination on Social Networks." This repository contains supplementary materials, additional experiment results, and information that complements our work.
 
-This GitHub repository contains online appendix with set of results for additional experiments and supplementary materials for our research on "Understanding the Contribution of Recommendation Algorithms on Misinformation Recommendation and Misinformation Dissemination on Social Networks." 
+<p align="center">
+  <img src="experiment.png" alt="Experimental Setup" width="750"/>
+</p>
 
-The work is published on [ACM Transactions on the Web (TWEB) Journal](https://doi.org/10.1145/3616088).
+## Overview
+
+In this research endeavor, we have delved into the intricate relationship between recommendation algorithms and the spread of misinformation. By developing a novel framework, we have integrated information diffusion models to meticulously analyze the impact of traditional recommender systems on the propagation of misleading news within social networks.
+
+## Research Publication
+
+Our work has been published in the [ACM Transactions on the Web (TWEB)](https://doi.org/10.1145/3616088) Journal. We invite you to explore the full publication to gain deeper insights into our methodology, findings, and conclusions.
 
 ## Citation
   If you discover that our work is beneficial for your research pursuits, we kindly request you to reference the subsequent paper:
